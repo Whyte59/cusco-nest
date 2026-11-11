@@ -1,0 +1,12 @@
+# Auxiliary translation tooling — kept locally, not published
+tools/
+
+# OS / editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
